@@ -1798,9 +1798,17 @@ PrefabInstance:
       value: Customer_Sit_Chair_wTable_Enter_Left (11)
       objectReference: {fileID: 0}
     - target: {fileID: 5866666021909216657, guid: 2e2bfe22d108faa4da485ed06638e9c8, type: 3}
+      propertyPath: m_Avatar
+      value: 
+      objectReference: {fileID: 9000000, guid: 2e2bfe22d108faa4da485ed06638e9c8, type: 3}
+    - target: {fileID: 5866666021909216657, guid: 2e2bfe22d108faa4da485ed06638e9c8, type: 3}
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: b9d790cf270fe4a4e9473747f5480554, type: 2}
+    - target: {fileID: 5866666021909216657, guid: 2e2bfe22d108faa4da485ed06638e9c8, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2e2bfe22d108faa4da485ed06638e9c8, type: 3}
 --- !u!1001 &531841790
